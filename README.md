@@ -1,5 +1,5 @@
 # Mandelbrot Zoom
-**Simple Mandelbrot Application**
+**Fast Mandelbrot Infinite Zoom**
 
 This simple applcation is for exploring the Mandelbrot Set.
 It can zoom infinitely and it renders very fast.
